@@ -2,3 +2,4 @@ install: make get-deps
 compiler:
   - clang
   - gcc
+cache: ccache

@@ -1,0 +1,7 @@
+language: perl
+perl:
+  - "5.18"
+  - "5.26"
+script:
+  - perl Build.PL
+  - ./Build build

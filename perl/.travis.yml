@@ -5,3 +5,4 @@ perl:
 script:
   - perl Build.PL
   - ./Build build
+  
